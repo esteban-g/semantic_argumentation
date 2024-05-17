@@ -1,0 +1,9 @@
+b :- not a.
+x :- c.
+c.
+a :- e.
+f :- t.
+t.
+y :- y.
+z :- not z.
+w :- w.
